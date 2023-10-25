@@ -1,0 +1,27 @@
+h1 {
+    color: rgb(53, 71, 170);
+}
+
+body {
+    background-color: rgb(173, 173, 173);
+}
+
+.card-1 {
+    margin: 450px;
+    padding: 30px;
+    align-items: center;
+    width: 300px;
+    margin-top: 200px;
+    border-radius: 50px;
+    background: #c4c4c4;
+}
+
+.card-body5 {
+    background: #c4c4c4;
+    padding: 50px;
+    margin: 150px;
+    align-items: center;
+    width: 1000px;
+    margin-top: 200px;
+    border-radius: 50px;
+}
